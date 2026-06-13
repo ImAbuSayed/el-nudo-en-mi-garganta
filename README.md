@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-nudo-en-mi-garganta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for El nudo en mi garganta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-nudo-en-mi-garganta/) |
+| **Get License** | [Secure Licensing Rights for El nudo en mi garganta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-nudo-en-mi-garganta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a5dadcbc1f484809047d7bbb5bb7fdd13326397d1acae01679f34d9aaa72c864` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

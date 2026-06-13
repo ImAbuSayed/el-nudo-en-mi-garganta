@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El nudo en mi garganta
+
+This log tracks the cryptographic history and versioning for the song **El nudo en mi garganta** (el-nudo-en-mi-garganta).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:17:45.521689 | `v1` | `a5dadcbc1f484809047d7bbb5bb7fdd13326397d1acae01679f34d9aaa72c864` | `c76171b7a5816926d1c52eb97f60848a2c607441ea63689100e9ae1bfa7b2df6` | `2026-06-14_el-nudo-en-mi-garganta-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
