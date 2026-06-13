@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-nudo-en-mi-garganta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for El nudo en mi garganta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-nudo-en-mi-garganta/) |
+| **Get License** | [Official Music Licensing for El nudo en mi garganta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-nudo-en-mi-garganta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tengo el nudo en mi garganta si te veo aparecer,
+> ese flow de Barcelona me hace enloquecer.
+> Esta noche no hay excusas, nos comemos sin piedad,
+> tú eres dueña de la disco y de toda la ciudad.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
